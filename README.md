@@ -4,7 +4,9 @@ Building a GPT like model from scratch inspired by Andrey Karpathy's video : htt
 
 I reproduced the transformer architecure from scratch based on the Attention Is All You Need paper.
 
-Trained it with a A2 GPU on input.txt consisting of 1 million Shakespeare caracters to generate Shakespeare-like text.
+Trained it with a H100 GPU on input.txt consisting of 1 million Shakespeare caracters to generate Shakespeare-like text. Took roughly 10 minutes to train. 
+
+With an appropriate venv and your checkpoint, run python inference.py and generate Shakesperian text :)
 
 
 
