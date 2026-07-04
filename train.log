@@ -1,0 +1,11 @@
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 2.0039, val loss 2.0902
+step 1000: train loss 1.5975, val loss 1.7760
+step 1500: train loss 1.4399, val loss 1.6415
+step 2000: train loss 1.3412, val loss 1.5696
+step 2500: train loss 1.2768, val loss 1.5349
+step 3000: train loss 1.2264, val loss 1.5160
+step 3500: train loss 1.1830, val loss 1.4954
+step 4000: train loss 1.1463, val loss 1.4915
+step 4500: train loss 1.1082, val loss 1.4834
+Saved checkpoint to model.pt
